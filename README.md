@@ -35,3 +35,12 @@ Edit `dataset_generation.py` to customize:
         - BOTHUNTER_HOST
         - EXTERNAL_HOST
 
+## TODO/NEXT STEPS
+
+- Edit the ollama **modelfile** to inject our customized prompt -- may prevent hallucination
+- More powerful spec hardware?
+    - Fine tuning LoRa model
+    - improve prompting / conversational flow / structuring of responses
+    - more advanced bad bots?
+
+- Can we give bots access to processes and execution?
